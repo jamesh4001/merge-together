@@ -2,6 +2,6 @@
 
 ## skittles
 ## m&m
-## Snikers
+## Reeses
 ## Twix
 ## Hersheys
