@@ -1,7 +1,7 @@
 # The Best Candies:
 
 ## skittles
-## 
+## Smarties
 ## Reeses
-## Nerds
+## Airheads
 ## PayDay
